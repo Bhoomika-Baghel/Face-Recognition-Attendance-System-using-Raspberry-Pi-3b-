@@ -1,17 +1,17 @@
-Face Recognition attendance System:
+**Face Recognition attendance System:**
 The Face Recognition Attendance System is an innovative solution designed to automate the process of marking attendance using facial recognition technology. Traditional methods of taking attendance, such as roll calls or manual signatures, can be time-consuming, error-prone, and vulnerable to misuse, such as proxy attendance. This system addresses these issues by using advanced computer vision and machine learning techniques to identify individuals based on their unique facial features.
 The system works by capturing an image of the person’s face using a camera, analysing the image to detect facial patterns, and matching it with a pre-stored database of registered individuals. Once a match is found, the attendance is recorded automatically and securely. This eliminates the need for manual intervention, saving time and improving accuracy.
 
-The system typically involves several components:
+**The system typically involves several components:**
     1. Face Detection: Identifies and locates faces in images or video streams.
     2. Feature Extraction: Extracts unique facial features (such as the distance between eyes, nose, and mouth) for recognition.
     3. Face Matching: Compares the extracted features with the database of registered faces to verify identity.
     4. Attendance Logging: Once identity is verified, the system logs the individual's attendance and records the time of entry or exit.
 
-Technology in face recognition attendance system
+**Technology in face recognition attendance system**
 A Face Recognition Attendance System uses various technologies to automate attendance tracking through facial recognition. Computer vision and image processing techniques, powered by libraries like OpenCV or Pillow, help capture and analyse faces. Facial landmark detection, provided by libraries like dlib, allows the system to identify key facial features for better recognition.  Face recognition algorithms, such as those found in the Face Recognition Python library, compare the detected features with stored data in databases. Cloud services and APIs can enhance recognition capabilities by storing attendance data in it. Additionally, notification systems can alert users about attendance status, and hardware like cameras and buzzers provide real-time feedback during the recognition process.
 
-Application of face recognition attendance system
+**Application of face recognition attendance system**
 A Face Recognition Attendance System has a wide range of applications across various sectors due to its ability to automate attendance tracking, enhance security, and improve efficiency. Here are some of the key areas where face recognition attendance systems are used:
 1.Educational field
 In schools, colleges, and universities, face recognition attendance systems are widely used to automate the process of marking student attendance. This eliminates the need for manual roll calls, sign-in sheets, or fingerprint scanning, saving time and reducing errors.
